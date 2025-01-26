@@ -28,3 +28,6 @@ const LetterAnim = ({text}) => {
 };
 
 export default LetterAnim;
+
+// example usage:
+// <LetterAnim text = "Hello." />
